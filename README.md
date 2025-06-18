@@ -13,7 +13,7 @@
 - 🌱 I’m a backend developer and high school student.I’m interested in development and moderation.
 - I work on random projects in my free time. 
 
-- 📫 How to reach me **feibian16@gmail.com**
+- 📫 How to reach me **fabian@lugo.ws**
 
  </p> 
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/fabián-andrés-lugo-muñoz- "target="blank">
+  <a href="https://www.linkedin.com/in/fabian-lugo-/" target="blank">
    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" />www.linkedin.com/in/
