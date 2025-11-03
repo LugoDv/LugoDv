@@ -27,7 +27,7 @@
       alt="adam pithewan" height="30" width="40" />www.linkedin.com/in/
 fabián-andrés-lugo-muñoz-
 </a>
-  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"
+  <a href="https://fb.com/adam pithen wala" target="blank"><img align="center"/>
       
  
  
