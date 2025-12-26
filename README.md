@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fabian Lugo</h1>
-<h3 align="center">Junior Developer🌟.</h3>
 
 <br>
 
